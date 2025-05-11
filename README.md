@@ -9,6 +9,8 @@ I'm a rising senior studying Computer Science at Prairie View A&M University wit
 
 ## 🔭 Experience
 
+- **Product Manager Intern @ Oracle** - Drove the roadmap for OCI Dedicated Region focusing on improving OCI services to customers' with data residency requirements while meeting constricting storage capacity.
+
 - **Undergraduate ML Researcher** - Currently working on an NCIT-funded project to build an early warning detection system for slope failures using IoT devices and machine learning.
 
 - **Software Engineering Intern @ Electronic Arts (EA)** - Focused on data infrastructure to house internal employee search behavior for search recommendations using C++ and Python.
